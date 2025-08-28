@@ -1,1 +1,1 @@
-Created for learning GitActions. For learning Purpose Only.
+Created for learning GitActions. For learning purposes only.
