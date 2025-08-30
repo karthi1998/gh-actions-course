@@ -20,5 +20,5 @@ jobs:
 
             - name: Run Unit Tests
               run: npm run test
-              working-directory: 04-using-actions/react
+              working-directory: 04-using-actions/react-app
 
